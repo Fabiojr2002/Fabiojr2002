@@ -1,3 +1,6 @@
+## 🐍 Minhas contribuições
+
+![snake gif](https://github.com/Fabiojr2002/Fabiojr2002/blob/output/github-contribution-grid-snake.svg)
 # 👨‍💻 Fabio Junior
 
 🚀 Desenvolvedor em constante evolução, apaixonado por tecnologia, dados e desenvolvimento web.
